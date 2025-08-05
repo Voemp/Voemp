@@ -12,7 +12,7 @@
   </tr>
 </table>
 <br/>
-<h3 align="center">✨Stats</h3>
+<h3 align="center">✨ Stats</h3>
 <table width="100%" align="center">
   <tr>
     <td>
