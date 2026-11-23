@@ -11,7 +11,7 @@
 
   <p>
     <a href="mailto:Hoshinakiyoru@163.com"><img src="https://img.shields.io/badge/EMAIL-Hoshinakiyoru%40163.com-222222?style=flat-square&logo=gmail&logoColor=white&labelColor=555555"/></a>
-    <a href="https://blog.voemp.top"><img src="https://img.shields.io/badge/BLOG-Voemp%E3%81%AE%E6%80%9D%E3%81%84%E8%8C%B6%E5%B1%8B-222222?style=flat-square&logo=readme&logoColor=white&labelColor=555555"/></a>
+    <a href="https://blog.voemp.top"><img src="https://img.shields.io/badge/BLOG-Voemp%E3%81%AE%E6%80%9D%E7%BB%B4%E8%8C%B6%E5%B1%8B-222222?style=flat-square&logo=readme&logoColor=white&labelColor=555555"/></a>
   </p>
 
   <br />
