@@ -1,20 +1,17 @@
 <div align="center">
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0%3A111111%2C50%3A393939%2C100%3A777777&section=header&reversal=false&text=Voemp&textBg=false&fontColor=000000&fontSize=60&fontAlign=50&fontAlignY=50&animation=scaleIn&rotate=0&stroke=FFFFFF&strokeWidth=4&desc=FROM+CHINA+%C2%B7+IN+THE+AGE+OF+AI&descSize=10&descAlign=50&descAlignY=92"
-  />
+  <picture>
+    <img
+      width="100%"
+      src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0%3A111111%2C50%3A393939%2C100%3A777777&section=header&reversal=false&text=Voemp&textBg=false&fontColor=000000&fontSize=60&fontAlign=50&fontAlignY=50&animation=scaleIn&rotate=0&stroke=FFFFFF&strokeWidth=4&desc=FROM+CHINA+%C2%B7+IN+THE+AGE+OF+AI&descSize=10&descAlign=50&descAlignY=92"
+    />
+  </picture>
  
   <br />
   <br />
 
   <p>
-    <a href="mailto:Hoshinakiyoru@163.com">
-      <img src="https://img.shields.io/badge/EMAIL-Hoshinakiyoru%40163.com-222222?style=flat-square&logo=gmail&logoColor=white" />
-    </a>
-    &nbsp;
-    <a href="https://blog.voemp.top">
-      <img src="https://img.shields.io/badge/BLOG-Voemp%E3%81%AE%E6%80%9D%E3%81%84%E8%8C%B6%E5%B1%8B-555555?style=flat-square&logo=readme&logoColor=white" />
-    </a>
+    <a href="mailto:Hoshinakiyoru@163.com"><img src="https://img.shields.io/badge/EMAIL-Hoshinakiyoru%40163.com-222222?style=flat-square&logo=gmail&logoColor=white&labelColor=555555"/></a>
+    <a href="https://blog.voemp.top"><img src="https://img.shields.io/badge/BLOG-Voemp%E3%81%AE%E6%80%9D%E3%81%84%E8%8C%B6%E5%B1%8B-222222?style=flat-square&logo=readme&logoColor=white&labelColor=555555"/></a>
   </p>
 
   <br />
@@ -73,8 +70,10 @@
 <div align="center">
   <sub>✦ Curiosity never fades. Imagination has no limits.</sub>
 
-  <img
-    width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:777777,100:111111&height=100&section=footer"
-  />
+  <picture>
+    <img
+      width="100%"
+      src="https://capsule-render.vercel.app/api?type=waving&color=0:777777,100:111111&height=80&section=footer"
+    />
+  </picture>
 </div>
